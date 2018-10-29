@@ -8,18 +8,16 @@
     <p align="center">6840 Grace Avenue, Apt 2, Cincinnati, Ohio 45236</p>
     <hr width="100%"/>
   <h2>PROFESSIONAL SUMMARY</h2>
-  <p>Current student at Tech Elevator, learning Java full-stack development.  Experience and training in art and design.</p>
-  <p>Looking to join a team where I can leverage my artistic abilities and continue to learn and grow as a developer.</p>
+  <p>Current student at Tech Elevator, learning Java full-stack development.  Experience and training in art and design. Looking to join a team where I can leverage my artistic abilities and continue to learn and grow as a developer.</p>
   <hr width="100%"/>
   <h2>TECHNICAL SKILLS</h2>
-  <p>Java, Full-Stack Software Development, HTML, CSS, JavaScript, jQuery, Postgresql, SQL, Servlets, JSP, JDBC,</p>
-  <p>Spring Web MVC, Agile, unit testing (JUnit), integration testing, TDD, unix command line navigation, Git, Eclipse</p>
+  <p>Java, Full-Stack Software Development, HTML, CSS, JavaScript, jQuery, Postgresql, SQL, Servlets, JSP, JDBC, Spring Web MVC, Agile, unit testing (JUnit), integration testing, TDD, unix command line navigation, Git, Eclipse</p>
   <hr width="100%"/>
     <h2>EDUCATION</h2>
-  <p><b>Tech Elevator</b>, Java Certification, Cincinnati, Ohio - Java Development 14-Week Bootcamp (2018)</p>
-  <p><b>Full Sail University</b>, Winter Park, Florida - Film Studies (2014 - 2015)</p>
-  <p><b>Art Institute of Ohio-Cincinnati</b>, Cincinnati, Ohio - Interior Design Studies (2010)</p>
-  <p><b>Walnut Hills High School</b>, Cincinnati, Ohio - Diploma/College Preparatory Course</p>
+  <p><b>Tech Elevator</b>, Java Certification, Cincinnati, Ohio - <i>Java Development 14-Week Bootcamp</i> (2018)</p>
+   <p><b>Full Sail University</b>, Winter Park, Florida - <i>Film Studies</i> (2014 - 2015)</p>
+   <p><b>Art Institute of Ohio-Cincinnati</b>, Cincinnati, Ohio - <i>Interior Design Studies</i> (2010)</p>
+   <p><b>Walnut Hills High School</b>, Cincinnati, Ohio - <i>Diploma/College Preparatory Course</i></p>
   <hr width="100%">
   <h2>TECHNICAL EXPERIENCE</h2>
   <ul>
