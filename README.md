@@ -8,9 +8,16 @@
     <p align="center">6840 Grace Avenue, Apt 2, Cincinnati, Ohio 45236</p>
     <hr width="100%"/>
   <h2>PROFESSIONAL SUMMARY</h2>
-  <p>Current student at Tech Elevator, learning Java full-stack development.  Experience and training in art and design. Looking to join a team where I can leverage my artistic abilities and continue to learn and grow as a developer.</p>
+  <p>Motivated and dynamic junior Java full-stack developer with experience and training in art and design. Seeking a team
+to leverage artistic abilities and continue to learn and grow as a developer.</p>
   <hr width="100%"/>
   <h2>TECHNICAL SKILLS</h2>
+<ul>
+ <li>Object Oriented Programming - Java</li>
+ <li>Web Application Development - HTML, CSS, Javascript, jQuery, JSON, Spring MVC, JSP</li>
+ <li>Database Programming - JDBC, SQL queries and DML, PostgreSQL, table design and creation</li>
+ <li>Development tools and techniques - Agile, unit testing (JUnit), Unix command line, Git, Eclipse</li>
+</ul>
   <p>Java, Full-Stack Software Development, HTML, CSS, JavaScript, jQuery, Postgresql, SQL, Servlets, JSP, JDBC, Spring Web MVC, Agile, unit testing (JUnit), integration testing, TDD, unix command line navigation, Git, Eclipse</p>
   <hr width="100%"/>
     <h2>EDUCATION</h2>
