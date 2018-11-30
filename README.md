@@ -13,12 +13,11 @@ to leverage artistic abilities and continue to learn and grow as a developer.</p
   <hr width="100%"/>
   <h2>TECHNICAL SKILLS</h2>
 <ul>
- <li>Object Oriented Programming - Java</li>
- <li>Web Application Development - HTML, CSS, Javascript, jQuery, JSON, Spring MVC, JSP</li>
- <li>Database Programming - JDBC, SQL queries and DML, PostgreSQL, table design and creation</li>
- <li>Development tools and techniques - Agile, unit testing (JUnit), Unix command line, Git, Eclipse</li>
+ <li><b>Object Oriented Programming</b> - Java</li>
+ <li><b>Web Application Development</b> - HTML, CSS, Javascript, jQuery, JSON, Spring MVC, JSP</li>
+ <li><b>Database Programming</b> - JDBC, SQL queries and DML, PostgreSQL, table design and creation</li>
+ <li><b>Development tools and techniques</b> - Agile, unit testing (JUnit), Unix command line, Git, Eclipse</li>
 </ul>
-  <p>Java, Full-Stack Software Development, HTML, CSS, JavaScript, jQuery, Postgresql, SQL, Servlets, JSP, JDBC, Spring Web MVC, Agile, unit testing (JUnit), integration testing, TDD, unix command line navigation, Git, Eclipse</p>
   <hr width="100%"/>
     <h2>EDUCATION</h2>
   <p><b>Tech Elevator</b>, Java Certification, Cincinnati, Ohio - <i>Java Development 14-Week Bootcamp</i> (2018)</p>
@@ -30,14 +29,15 @@ to leverage artistic abilities and continue to learn and grow as a developer.</p
   <ul>
     <li><b>Vending Machine Software</b> - Developed in Java using OOP fundamentals using file.io.</li>
     <li><b>National Park Registration</b> - Developed registration page for National Park tours in Java and PostgreSQL. Ran integration tests. Primarily developed in a command line interface.</li>
+   <li><b>National Park Web Application</b> - Developed web application using the Spring MVC framework, HTML, and CSS.</li>
   </ul>
     <hr width="100%">
     <h2>PROFESSIONAL EXPERIENCE</h2>
     <p><b>Kroger - (7/2015 - 9/2018)</b></p>
     <p><i>Certified Cake Decorator</i></p>
     <ul>
-      <li>Cut, iced, and decorated cakes according to predesigned kits or to customer requests.</li>
       <li>Used photo manipulation software to edit and print edible images.</li>
+      <li>Cut, iced, and decorated cakes according to predesigned kits or to customer requests.</li>
       <li>Utilized fine attention to detail and strong interpersonal skills to achieve best results.</li>
     </ul>
     <br/>
